@@ -40,5 +40,7 @@ Dark Mode Toggle: Click the toggle button to switch between dark and light theme
 Responsive Design: Resize your browser to see the responsive layout adjustments for different screen sizes.
 
 Name: Ananta Chattapadhyay
+<br>
 Email: chatterjeeanata091@gmail.com
+<br>
 LinkedIn: [Ananta Chattapadhyay](https://www.linkedin.com/in/ananta-chatterjee-896219245/)
